@@ -1,0 +1,31 @@
+.lienhe h6 {
+  margin-left: 14px;
+  color: red;
+  font-size: 21px;
+}
+
+.nu img {
+  width: 140px;
+}
+
+.form tr td {
+  padding: 5px;
+}
+
+.form tr td textarea {
+  padding: 11px;
+}
+
+.form tr td button {
+  padding: 6px 101px;
+  background-color: red;
+  border: none;
+  color: white;
+  font-weight: 700;
+}
+
+.form tr td input {
+  width: 240px;
+  height: 46px;
+  padding: 15px;
+}
